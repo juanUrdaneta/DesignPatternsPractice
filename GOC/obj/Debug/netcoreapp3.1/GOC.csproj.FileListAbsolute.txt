@@ -1,0 +1,13 @@
+C:\Users\juank\source\repos\GOC\GOC\bin\Debug\netcoreapp3.1\GOC.exe
+C:\Users\juank\source\repos\GOC\GOC\bin\Debug\netcoreapp3.1\GOC.deps.json
+C:\Users\juank\source\repos\GOC\GOC\bin\Debug\netcoreapp3.1\GOC.runtimeconfig.json
+C:\Users\juank\source\repos\GOC\GOC\bin\Debug\netcoreapp3.1\GOC.runtimeconfig.dev.json
+C:\Users\juank\source\repos\GOC\GOC\bin\Debug\netcoreapp3.1\GOC.dll
+C:\Users\juank\source\repos\GOC\GOC\bin\Debug\netcoreapp3.1\GOC.pdb
+C:\Users\juank\source\repos\GOC\GOC\obj\Debug\netcoreapp3.1\GOC.csprojAssemblyReference.cache
+C:\Users\juank\source\repos\GOC\GOC\obj\Debug\netcoreapp3.1\GOC.AssemblyInfoInputs.cache
+C:\Users\juank\source\repos\GOC\GOC\obj\Debug\netcoreapp3.1\GOC.AssemblyInfo.cs
+C:\Users\juank\source\repos\GOC\GOC\obj\Debug\netcoreapp3.1\GOC.csproj.CoreCompileInputs.cache
+C:\Users\juank\source\repos\GOC\GOC\obj\Debug\netcoreapp3.1\GOC.dll
+C:\Users\juank\source\repos\GOC\GOC\obj\Debug\netcoreapp3.1\GOC.pdb
+C:\Users\juank\source\repos\GOC\GOC\obj\Debug\netcoreapp3.1\GOC.genruntimeconfig.cache
