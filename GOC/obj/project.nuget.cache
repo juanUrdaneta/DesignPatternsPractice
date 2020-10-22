@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oFQiTEhsCXNgrH69MKgbVDaNQXtgVwToQ9eef2hrmKGz9bwaYHusTz7USBFtee67nNjvMu4Dl1WHuVg/kMkf8w==",
+  "dgSpecHash": "rGpPl1hsLsqmDl0s8Nc0GwXDhUi1el5lMA0ry5mOy0o/WNrr1P1VStV+oVxgIgXX1bh7q6CnAK3VOudW5BL+kA==",
   "success": true,
   "projectFilePath": "C:\\Users\\juank\\source\\repos\\GOC\\GOC\\GOC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\juank\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

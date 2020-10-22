@@ -1,0 +1,13 @@
+C:\Users\juank\source\repos\GOC\DIContainerDemo\bin\Debug\netcoreapp3.1\DIContainerDemo.exe
+C:\Users\juank\source\repos\GOC\DIContainerDemo\bin\Debug\netcoreapp3.1\DIContainerDemo.deps.json
+C:\Users\juank\source\repos\GOC\DIContainerDemo\bin\Debug\netcoreapp3.1\DIContainerDemo.runtimeconfig.json
+C:\Users\juank\source\repos\GOC\DIContainerDemo\bin\Debug\netcoreapp3.1\DIContainerDemo.runtimeconfig.dev.json
+C:\Users\juank\source\repos\GOC\DIContainerDemo\bin\Debug\netcoreapp3.1\DIContainerDemo.dll
+C:\Users\juank\source\repos\GOC\DIContainerDemo\bin\Debug\netcoreapp3.1\DIContainerDemo.pdb
+C:\Users\juank\source\repos\GOC\DIContainerDemo\obj\Debug\netcoreapp3.1\DIContainerDemo.csprojAssemblyReference.cache
+C:\Users\juank\source\repos\GOC\DIContainerDemo\obj\Debug\netcoreapp3.1\DIContainerDemo.AssemblyInfoInputs.cache
+C:\Users\juank\source\repos\GOC\DIContainerDemo\obj\Debug\netcoreapp3.1\DIContainerDemo.AssemblyInfo.cs
+C:\Users\juank\source\repos\GOC\DIContainerDemo\obj\Debug\netcoreapp3.1\DIContainerDemo.csproj.CoreCompileInputs.cache
+C:\Users\juank\source\repos\GOC\DIContainerDemo\obj\Debug\netcoreapp3.1\DIContainerDemo.dll
+C:\Users\juank\source\repos\GOC\DIContainerDemo\obj\Debug\netcoreapp3.1\DIContainerDemo.pdb
+C:\Users\juank\source\repos\GOC\DIContainerDemo\obj\Debug\netcoreapp3.1\DIContainerDemo.genruntimeconfig.cache

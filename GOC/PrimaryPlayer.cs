@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Common;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -17,6 +18,8 @@ namespace GOC
         public int Health { get; set; }
 
         public IWeapon Weapon { get; set; }
+
+        public Card[] Cards;
 
         // internal instance of the class
         private static readonly PrimaryPlayer _instance;

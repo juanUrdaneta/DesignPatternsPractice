@@ -1,8 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Net.Security;
 using System.Text;
+using System.Linq;
+using Newtonsoft.Json;
+using Common;
+using System.Threading.Tasks;
 
 namespace GOC
 {
@@ -19,11 +24,14 @@ namespace GOC
             _player.Weapon = new Sword(10, 4);
         }
 
-        public void PlayArea(int lvl)
+        public async Task PlayArea(int lvl)
         {
+            _player.Cards = (await FetchCards()).ToArray();
+            Console.WriteLine("Ready to play?");
+            Console.ReadKey();
             if(lvl == 1)
             {
-                PlayFirstLevel();
+                PlayFirstLevel();   
             }
         }
 
@@ -45,6 +53,15 @@ namespace GOC
                 Console.WriteLine(enemy.GetType());
             }
 
+        }
+        private static async Task<IEnumerable<Card>> FetchCards()
+        {
+            using (var http = new HttpClient())
+            {
+                var cardJson = await http.GetStringAsync("http://localhost:64837/api/cards");
+                return JsonConvert.DeserializeObject<IEnumerable<Card>>(cardJson);
+
+            }
         }
     }
 }
